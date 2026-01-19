@@ -4,7 +4,8 @@ A fast and sequential message-deleter without using search functionality
 > [!WARNING]
 > Using your account during the script's operation will lead to stricter rate-limits and degraded experience for both you and the script.
 
-> Try to avoid using your account as much; don't browse channels, message, or delete messages yourself.
+> [!CAUTION]
+> I'm not responsible for any risks that come with using this. Make sure you have a phone attached to your account to reduce risks.
 
 # Introduction 
 
@@ -36,4 +37,7 @@ python ./main.py
 
 You will be asked to enter a token, then select a channel ID from the list given. 
 
-### [Not sure how to get your token?](https://gist.github.com/MarvNC/e601f3603df22f36ebd3102c501116c6)
+> [!NOTE]
+> The script randomly introduces a small jitter to the base delay to appear more "human"
+
+### [Not sure how to get your token? Click here](https://gist.github.com/MarvNC/e601f3603df22f36ebd3102c501116c6)
