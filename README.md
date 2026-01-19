@@ -1,6 +1,11 @@
 # discord_message_deleter
 A fast and sequential message-deleter without using search functionality
 
+> [!WARNING]
+> Using your account during the script's operation will lead to stricter rate-limits and degraded experience for both you and the script.
+
+> Try to avoid using your account as much; don't browse channels, message, or delete messages yourself.
+
 # Introduction 
 
 ## Why not use [Undiscord](github.com/victornpb/undiscord)?
